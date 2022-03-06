@@ -3,7 +3,11 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import org.jsoup.Jsoup;
-
+/**
+ * I have gotten this code snippet from:
+ * https://github.com/ShaneLee/Java-Web-Stock-Scraper/blob/master/WebScrape.java
+ * and modified it to fit our project's needs.
+ */
 public class JsoupRunner
 {
     public static void main(String[] args) throws IOException 
